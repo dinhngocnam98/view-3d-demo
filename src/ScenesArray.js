@@ -37,7 +37,7 @@ var scenesArray = [
                         anchor: "bottom center",
                         size: { width: 32, height: 32 },
                         tooltip: "Demo <b>Ấn để xem chi tiết!</b>",
-                        content: document
+                        content: description
                     },
                 ],
                 links: [
